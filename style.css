@@ -1,0 +1,90 @@
+body{
+	background-color: grey;
+}
+#container{
+	text-align: center;
+	margin: 10px;
+}
+#top-header{
+	border: 1px solid black;
+	margin: 10px;
+}
+#top-header nav{
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+#left-section{
+	float: left;
+	border: 1px solid black;
+	margin-left: 10px;
+}
+#left-section header{
+	border: 1px solid black;
+	padding: 20px 290px;
+	margin: 10px;
+}
+#left-section nav{
+	border: 1px solid black;
+	margin: 10px;
+	padding: 200px 290px;
+}
+#left-section footer{
+	border: 1px solid black;
+	padding: 20px 290px;
+	margin: 10px;
+}
+
+#right-section{
+	float: right;
+	border: 1px solid black;
+	margin-right: 10px;
+}
+#right-section header{
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px 555px;
+}	
+#up-article{
+	border: 1px solid black;
+	margin: 10px;
+	background-color: red;
+}
+#up-article header{
+	border: 1px solid black;
+	margin: 10px;
+}
+#up-article p,p{
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px 555px;
+}
+#down-article{
+	border: 1px solid black;
+	margin: 10px;
+	background-color: green;
+	padding-bottom: 30px;
+}
+#down-article p{
+	float: left;
+	border: 1px solid black;
+	margin: 0px 10px 10px 10px;
+	padding: 110px 440px;
+}
+#down-article aside{
+	float: right;
+	border: 1px solid black;
+	margin: 0px 10px 10px 0px;
+	padding: 110px 110px;
+	}
+#down-article footer{
+	border: 1px solid black;
+	margin: 10px 10px 0px;
+	padding: 10px 555px;
+	clear: both;
+}
+#lower-footer{
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px 555px;
+}
